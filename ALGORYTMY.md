@@ -12,6 +12,7 @@ Algorytmy sortujące:
 - Quick sort (szybkie sortowanie)
 
 Liczbowe:
+- Dzielniki liczby
 - Liczba doskonała
 - NWD (rekurencyjny + iteracyjny)
 - NWW (rekurencyjny + iteracyjny)
