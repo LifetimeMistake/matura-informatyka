@@ -1,9 +1,6 @@
 Problem największego podzbioru:
 - Algorytm Kadane (podciąg z największą sumą)
 
-Problem chuj wie czego:
-- Algorytm chuj wie czego (z3.3.py)
-
 Algorytmy sortujące:
 - Insert sort (wstawianie)
 - Selection sort (przez wybór)
@@ -16,13 +13,13 @@ Liczbowe:
 - Liczba doskonała
 - NWD (rekurencyjny + iteracyjny)
 - NWW (rekurencyjny + iteracyjny)
+- Potęgowanie (własny algorytm)
+- Pierwiastkowanie (własny algorytm)
+- Liczby pierwsze
 - Sito Eratostenesa
 - Obliczanie wartości wielomianu (rekurencyjny + iteracyjny)
 - Wyznaczanie miejsc zerowych funkcji
-- Potęgowanie (własny algorytm)
 - Silnia (własny algorytm)
-- Pierwiastkowanie (własny algorytm)
-- Liczby pierwsze
 
 Szyfry:
 - Podstawieniowe (s-box, cezara)
