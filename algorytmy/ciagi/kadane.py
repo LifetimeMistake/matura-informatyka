@@ -46,7 +46,7 @@ def kadane2(ciag):
 
 
 # Rozpisana implementacja Kadana
-def kadane3(ciag):
+def _kadane(ciag):
     # Inicjalizacja zmiennych
     max_suma = ciag[0]  # Największa dotychczas znaleziona suma
     suma = ciag[0]      # Suma aktualnego podciągu (początkowo równa pierwszemu elementowi)
