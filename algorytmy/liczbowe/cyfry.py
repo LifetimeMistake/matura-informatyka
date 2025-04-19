@@ -6,7 +6,6 @@
 # - Liczby ujemne są traktowane tak samo jak ich wartość bezwzględna
 
 def cyfry(n):
-    """Iteracyjna implementacja rozkładu liczby na cyfry"""
     if n == 0:
         return [0]
         
