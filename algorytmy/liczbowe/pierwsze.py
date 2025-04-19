@@ -4,7 +4,7 @@
 # Liczby, które nie są pierwsze, nazywamy liczbami złożonymi
 # Optymalizacja: wystarczy sprawdzać dzielniki tylko do pierwiastka z liczby,
 # ponieważ jeśli liczba ma dzielnik większy od pierwiastka, to musi mieć też dzielnik mniejszy od pierwiastka
-# dodatkowo, liczby pierwsze większe niż 2 muszą być nieparzyste
+# dodatkowo, liczby pierwsze większe niż 2 muszą być nieparzyste, więc nie musimy sprawdzać liczb parzystych
 
 # Import używany w benchmarku, nie jest wymagany do działania algorytmu
 import time
