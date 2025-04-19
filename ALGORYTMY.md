@@ -14,11 +14,11 @@ Liczbowe:
 - NWD (rekurencyjny + iteracyjny)
 - NWW (rekurencyjny + iteracyjny)
 - Potęgowanie (własny algorytm)
+- Wyznaczanie miejsc zerowych funkcji
 - Pierwiastkowanie (własny algorytm)
 - Liczby pierwsze
 - Sito Eratostenesa
 - Obliczanie wartości wielomianu (rekurencyjny + iteracyjny)
-- Wyznaczanie miejsc zerowych funkcji
 - Silnia (własny algorytm)
 
 Szyfry:
