@@ -30,6 +30,9 @@ Ciągi:
 - Algorytm Kadane (podciąg z największą sumą)
 - Sumy prefiksowe (ile jest danych elementów od początku tablicy)
 - Pivot Index
+- Palindrom
+- Antypalindrom
+- Anagram
 
 Szyfry:
 - Podstawieniowy (przez klucz)
