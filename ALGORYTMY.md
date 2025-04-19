@@ -5,7 +5,7 @@ Liczbowe:
 - NWW (rekurencyjny + iteracyjny)
 - Liczby pierwsze
 - Sito Eratostenesa
-- Silnia (własny algorytm)
+- Silnia (rekurencyjny + iteracyjny)
 - Rozkład liczby na cyfry
 - Rozkład liczby na czynniki pierwsze
 - Zamiana liczby do dowolnego systemu liczbowego
