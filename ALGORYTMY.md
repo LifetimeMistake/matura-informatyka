@@ -1,5 +1,23 @@
-Problem największego podzbioru:
-- Algorytm Kadane (podciąg z największą sumą)
+Liczbowe:
+- Dzielniki liczby
+- Liczba doskonała
+- NWD (rekurencyjny + iteracyjny)
+- NWW (rekurencyjny + iteracyjny)
+- Liczby pierwsze
+- Sito Eratostenesa
+- Silnia (własny algorytm)
+- Rozkład liczby na cyfry
+- Rozkład liczby na czynniki pierwsze
+- Zamiana liczby do dowolnego systemu liczbowego
+
+Numeryczne:
+- Potęgowanie (własny algorytm)
+- Wyznaczanie miejsc zerowych funkcji
+- Pierwiastkowanie (własny algorytm)
+- Obliczanie wartości wielomianu (rekurencyjny + iteracyjny)
+- Pole figury ograniczonej wykresem funkcji (całkowanie numeryczne)
+- Wydawanie reszty metodą zachłanną
+- Ciąg Fibonacciego (rekurencyjny + iteracyjny)
 
 Algorytmy sortujące:
 - Insert sort (wstawianie)
@@ -8,24 +26,22 @@ Algorytmy sortujące:
 - Merge sort (scalanie)
 - Quick sort (szybkie sortowanie)
 
-Liczbowe:
-- Dzielniki liczby
-- Liczba doskonała
-- NWD (rekurencyjny + iteracyjny)
-- NWW (rekurencyjny + iteracyjny)
-- Potęgowanie (własny algorytm)
-- Wyznaczanie miejsc zerowych funkcji
-- Pierwiastkowanie (własny algorytm)
-- Liczby pierwsze
-- Sito Eratostenesa
-- Obliczanie wartości wielomianu (rekurencyjny + iteracyjny)
-- Silnia (własny algorytm)
+Ciągi:
+- Algorytm Kadane (podciąg z największą sumą)
+- Sumy prefiksowe (ile jest danych elementów od początku tablicy)
+- Pivot Index
 
 Szyfry:
-- Podstawieniowe (s-box, cezara)
-- Kolumnowe
+- Podstawieniowy (przez klucz)
+- Przesunięcia (Cezara)
+- Kolumnowy
+
+Wyszukiwanie:
+- Binarne
+- Min i Max
+- Fibonacciego
 
 Inne:
 - Macierze
 - Wieża Hanoi
-- Pivot Index
+- Obliczanie złożoności obliczeniowej O(...)
