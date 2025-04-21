@@ -9,6 +9,7 @@ Liczbowe:
 - Rozkład liczby na cyfry
 - Rozkład liczby na czynniki pierwsze
 - Zamiana liczby do dowolnego systemu liczbowego
+- Ciąg Fibonacciego (rekurencyjny + iteracyjny)
 
 Numeryczne:
 - Potęgowanie (własny algorytm)
@@ -17,7 +18,6 @@ Numeryczne:
 - Obliczanie wartości wielomianu (rekurencyjny + iteracyjny)
 - Pole figury ograniczonej wykresem funkcji (całkowanie numeryczne)
 - Wydawanie reszty metodą zachłanną
-- Ciąg Fibonacciego (rekurencyjny + iteracyjny)
 
 Algorytmy sortujące:
 - Insert sort (wstawianie)
