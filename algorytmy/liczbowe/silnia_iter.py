@@ -7,8 +7,6 @@
 # Silnia rośnie bardzo szybko, już dla n=20 wynik przekracza zakres standardowych typów całkowitych
 
 def silnia(n):
-    if n < 0:
-        raise ValueError("Silnia jest zdefiniowana tylko dla liczb nieujemnych")
     if n == 0 or n == 1:
         return 1
     wynik = 1
