@@ -8,7 +8,8 @@ def quick_sort(lista):
     if len(lista) <= 1:
         return lista
     
-    # Może być zwykły, środkowy lub pierwszy
+    # Może być dowolną liczbą, np. środkową lub pierwszą
+    # W tym przypadku wybieramy pierwszą liczbę z listy
     pivot = lista[0]
     lewa = [x for x in lista[1:] if x < pivot]
     prawa = [x for x in lista[1:] if x >= pivot]
