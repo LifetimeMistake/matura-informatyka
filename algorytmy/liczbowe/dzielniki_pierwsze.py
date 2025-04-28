@@ -29,8 +29,8 @@ def czynniki_pierwsze(n):
             n = n // i
         i += 2
         
-    # Jeśli pozostała liczba jest większa niż 2, to jest pierwsza
-    if n > 2:
+    # Jeśli pozostała liczba jest większa niż 1, to jest pierwsza
+    if n > 1:
         czynniki.append(n)
         
     return czynniki
