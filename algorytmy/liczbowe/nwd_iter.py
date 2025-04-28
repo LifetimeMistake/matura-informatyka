@@ -4,8 +4,7 @@
 # Prosta implementacja algorytmu NWD
 def nwd(a, b):
     while b:
-        a = b
-        b = a % b
+        a, b = b, a % b
     return a
 
 # Implementacja algorytmu NWD z wyjaśnieniami
